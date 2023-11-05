@@ -1,0 +1,1 @@
+let text = "Trying to bend the truth, lying away from yooooooou";
