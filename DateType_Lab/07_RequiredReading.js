@@ -1,6 +1,6 @@
 function demo(bookPages,pagePerHour,days){
     let totalHoursNeeded = bookPages / pagePerHour;
-    console.log(totalHoursNeeded);
+    
     let readingHours = totalHoursNeeded / days;
     console.log(readingHours);
 }
